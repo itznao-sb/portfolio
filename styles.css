@@ -1,9 +1,9 @@
 :root {
   /* Light Mode Colors */
-  --background-light: #556B2F;
-  --section-bg-light: #F5F5F5;
+  --background-light: #EFF2F1;
+  --section-bg-light: #6B9AC4;
   --text-light: #000000;
-  --link-light: #7B4F9D;
+  --link-light: #570893;
   --button-light: #7B4F9D;
   --button-hover-light: #432b55;
   --button-text-light: #FFFFFF;
@@ -21,8 +21,8 @@
   --shadow-top-light: 0 -4px 8px var(--shadow-color-light);
 
   /* Dark Mode Colors */
-  --background-dark: #2D3339;
-  --section-bg-dark: #38471f;
+  --background-dark: #343434;
+  --section-bg-dark: #2F3061;
   --text-dark: #FFFFFF;
   --link-dark: #6DABFF;
   --button-dark: #6DABFF;
